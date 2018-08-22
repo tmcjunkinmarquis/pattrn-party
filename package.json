@@ -1,0 +1,20 @@
+{
+  "name": "pattern-party",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stuff.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmcjunkinmarquis/pattrn-party.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmcjunkinmarquis/pattrn-party/issues"
+  },
+  "homepage": "https://github.com/tmcjunkinmarquis/pattrn-party#readme"
+}
