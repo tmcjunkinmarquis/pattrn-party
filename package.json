@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/tmcjunkinmarquis/pattrn-party/issues"
   },
-  "homepage": "https://github.com/tmcjunkinmarquis/pattrn-party#readme"
+  "homepage": "https://github.com/tmcjunkinmarquis/pattrn-party#readme",
+  "dependencies": {
+    "eslint": "^5.4.0"
+  }
 }
