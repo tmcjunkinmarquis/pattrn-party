@@ -75,6 +75,10 @@ p {
 
 }
 
+.hidden {
+  display: none;
+}
+
 @media screen and (max-width: 660px) {
   .tablink {
     width: 100%;
