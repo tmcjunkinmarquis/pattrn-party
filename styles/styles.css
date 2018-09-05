@@ -49,3 +49,17 @@ h1 {
   border-top: 1px solid #d1d2d3;
   margin: 1em 0;
 }
+
+.view-code-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
+  height: 50px;
+  margin: 100px auto;
+  color: #fff;
+  font-weight: 600;
+  font-weight: 300;
+  text-decoration: none;
+  background-color: #3f3244;
+}

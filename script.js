@@ -11,4 +11,10 @@ $('.tablink').on('click', (event)=>{
 })
 
 
+//For Header Bar
+const toggleMenu = e => {
+  $('.header-dropdown-wrap').toggleClass('show-menu');
+}
+
+$('.dropdown-menu-label').on('click', toggleMenu);
 
