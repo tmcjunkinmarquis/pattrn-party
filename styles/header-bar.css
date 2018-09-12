@@ -28,11 +28,8 @@
 .header-bar input {
   border: 1px solid #666;
   background-color: #F2F2F2;
-  
   font-size: 1em;
- 
   height: 35px;
- 
   width: 24%;
 }
 
@@ -49,6 +46,7 @@
     position: relative;
     /* box-sizing: border-box; */
     /* margin: 0 0 270px 0; */
+    margin-bottom: 250px;
   }
 
   .header-bar h1 {
@@ -70,7 +68,7 @@
   }
 
   .header-dropdown-wrap.show-menu {
-    box-sizing: border-box;
+
     display: initial;
     position: absolute;
     width: 100%;
