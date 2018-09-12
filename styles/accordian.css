@@ -79,7 +79,7 @@
   display: flex;
 }
 
-@media (max-width: 660px) {
+@media screen and (max-width: 660px) {
   .label {
     width: 100%;
   }
